@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 1,
+    "Type": "Troll",
+    "Couleur": 2,
+    "Nom": "Troll 1",
+    "ID_Groupe": 10
+  },
+  {
+    "ID": 2,
+    "Type": "Gobelin",
+    "Couleur": 2,
+    "Nom": "Gob 1",
+    "ID_Groupe": 10
+  }
+]
